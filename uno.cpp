@@ -4,7 +4,7 @@
 
 #include <iostream>
 
-using namesapce std;
+using namespace std;
 
 int main() {
      cout << "Hola Mundo AyEDII";
